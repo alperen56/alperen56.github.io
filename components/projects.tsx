@@ -5,7 +5,7 @@ const projects = [
   {
     href: '#kryptos',
     title: 'Kryptos',
-    description: 'Local security assessment tool',
+    description: 'Local ai security tool',
     stack: 'Python / LLM / RAG',
     image: '/work/kryptos.png',
   },

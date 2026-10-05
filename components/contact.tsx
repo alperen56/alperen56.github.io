@@ -1,9 +1,9 @@
 import { SectionLabel } from './section-label'
 
 const contacts = [
-  { label: 'GitHub', href: 'https://github.com/your-username', handle: 'github.com/your-username' },
-  { label: 'Discord', href: 'https://discord.com/users/your-id', handle: 'your-discord' },
-  { label: 'Email', href: 'mailto:hello@example.com', handle: 'hello@example.com' },
+  { label: 'GitHub', href: 'https://github.com/alperen56', handle: 'github.com/alperen56' },
+  { label: 'Discord', href: 'https://discord.com/users/your-id', handle: 'dez.cs' },
+  { label: 'Email', href: 'mailto:dezstudioab@gmail.com', handle: 'dezstudioab@gmail.com' },
 ]
 
 export function Contact() {
