@@ -1,5 +1,5 @@
 const config = {
-  discordId: "",
+  discordId: "1244703247260979301",
   links: [
     { label: "Roblox", url: "" },
     { label: "GitHub", url: "" },
